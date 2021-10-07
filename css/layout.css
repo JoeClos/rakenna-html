@@ -1,0 +1,22 @@
+.header {
+    border: 1px solid grey;
+    border-style: dashed;
+    padding: 5px;
+}
+
+.section {
+    border: 1px solid grey; 
+    border-style: dashed;
+    padding: 5px;
+
+}
+
+.footer {
+    border: 1px solid grey;
+    border-style: dashed;
+    padding: 5px;
+}
+
+.paragraph {
+    padding-right: 5px;
+}
